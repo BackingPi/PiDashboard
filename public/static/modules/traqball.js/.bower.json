@@ -1,0 +1,13 @@
+{
+  "name": "traqball.js",
+  "homepage": "https://github.com/dirkweber/traqball.js",
+  "_release": "065171bc74",
+  "_resolution": {
+    "type": "branch",
+    "branch": "master",
+    "commit": "065171bc74a1d6382be5d7401327b3ee983e3abb"
+  },
+  "_source": "https://github.com/dirkweber/traqball.js.git",
+  "_target": "*",
+  "_originalSource": "https://github.com/dirkweber/traqball.js.git"
+}
